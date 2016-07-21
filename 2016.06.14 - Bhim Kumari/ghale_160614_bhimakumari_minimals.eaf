@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-06-17T17:27:52+05:45" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-06-25T11:16:36+05:45" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/Desktop/Ghale/Ghale recording 2.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Ghale recording 2.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/petergraif/Dropbox/Academic/Ghale Documentation/2016.06.14 - Bhim Kumari/ghale_160614_bhimakumari_minimals.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ghale_160614_bhimakumari_minimals.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c2bfbe7f-cd43-4549-afdd-1c5e4007959a</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">142</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="48407"/>
         <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="48867"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="52598"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="53058"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="52586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="52926"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="88643"/>
         <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="89261"/>
         <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="104971"/>
@@ -22,8 +22,8 @@
         <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="267299"/>
         <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="274690"/>
         <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="275461"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="282011"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="282806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="281996"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="283090"/>
         <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="288369"/>
         <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="289218"/>
         <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="488588"/>
@@ -149,8 +149,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="2724800"/>
         <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="2725700"/>
     </TIME_ORDER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
-    <TIER ANNOTATOR="Rojisha" DEFAULT_LOCALE="ipa-96" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="Bhim Kr. Ghale" TIER_ID="Ghale">
+    <TIER ANNOTATOR="Rojisha" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="Bhim Kr. Ghale" TIER_ID="Ghale">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>mi</ANNOTATION_VALUE>
@@ -158,12 +157,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>mih</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>muihi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mwi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -178,42 +177,42 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>kihi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ki</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>ni</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ŋi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>nih</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ŋi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
-                <ANNOTATION_VALUE>nihi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ŋi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>ni</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ŋi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>ʝa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>ʝa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>ʝa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -308,7 +307,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
-                <ANNOTATION_VALUE>ɸi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -318,7 +317,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-                <ANNOTATION_VALUE>mih</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -507,7 +506,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="Rojisha" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation" PARENT_REF="Ghale" PARTICIPANT="Bhim Kumari Ghale" TIER_ID="English Translation">
+    <TIER ANNOTATOR="Rojisha" LINGUISTIC_TYPE_REF="translation" PARENT_REF="Ghale" PARTICIPANT="Bhim Kumari Ghale" TIER_ID="English Translation">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>person</ANNOTATION_VALUE>
@@ -867,8 +866,6 @@
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
-    <LOCALE LANGUAGE_CODE="ipa-96" VARIANT="rtr"/>
-    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
